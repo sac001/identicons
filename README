@@ -1,0 +1,9 @@
+﻿Simple CLI app for creating Bitmessage style two color
+identicons, useful for age pub keys, NaClbox pub keys
+or an OpenPGP fingerprint etc.
+
+Usage:
+
+Simply input your string, press enter and then the
+required image size. The .png image will be written
+into the current directory as 'identicon.png'.
